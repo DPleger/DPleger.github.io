@@ -1,0 +1,10 @@
+{
+  "appId": "spotifyrest",
+  "apiKey": "8fd2fe471415db343ef4d5cb751051c240e45d9e53097f377e353c43c14960ef",
+  "public": "./public",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
